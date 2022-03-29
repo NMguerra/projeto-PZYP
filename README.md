@@ -1,2 +1,2 @@
 # Phyton PZYP
-PYZP is file compression utiity based on the Lempel–Ziv–Storer–Szymanski (LZSS) algorithm.
+PYZP is file compression utitity based on the Lempel–Ziv–Storer–Szymanski (LZSS) algorithm.
